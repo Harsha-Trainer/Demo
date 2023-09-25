@@ -1,7 +1,7 @@
 # Heading 1
 1. item 1
 2. item 2
-    2.item 2.1
+2.item 2.1
 ## Heading 2
 * item 1
 * item 2
